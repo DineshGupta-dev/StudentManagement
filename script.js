@@ -15,6 +15,7 @@ function addStudent() {
 
     document.getElementById("name").value = "";
     document.getElementById("roll").value = "";
+}
     
 let students = [];
 
@@ -31,4 +32,4 @@ function registerStudent() {
     alert("Student Registered");
 }
 
-}
+
